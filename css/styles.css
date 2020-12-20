@@ -1,0 +1,19 @@
+body {
+  display: block;
+  text-align: center;
+}
+
+.timer {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  padding: 25px;
+}
+
+.value {
+  display: block;
+  font-size: 100px;
+}
